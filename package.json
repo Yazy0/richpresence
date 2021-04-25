@@ -1,0 +1,11 @@
+{
+  "name": "richpresence",
+  "version": "1.0.0",
+  "description": "Basic rpc made in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Yazy",
+  "license": "ISC"
+}
