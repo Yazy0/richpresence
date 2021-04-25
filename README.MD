@@ -2,8 +2,11 @@
 
 # **Installation**
 To use it you have to install the dependencies so do in the cmd: 
+
 `npm install prompt-sync`
+
 and
+
 `npm install discord-rpc`
 
 To run it:
