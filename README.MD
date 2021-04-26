@@ -13,3 +13,7 @@ To run it:
 `node .`
 
 after that insert the client id and the other informations
+
+
+# Changelogs :
+Added possibility to use button on the rpc
