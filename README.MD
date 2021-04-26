@@ -16,4 +16,7 @@ after that insert the client id and the other informations
 
 
 # Changelogs :
+`26/04/2021`
+
 Added possibility to use button on the rpc
+
