@@ -13,7 +13,9 @@ rpc.on('ready', () =>{
         largeImageText: prompt('Image Text: '),
         smallImageKey: prompt('Small Image Name: '),
         smallImageText: prompt('Small Image Text: '),
+        buttons: [{label: prompt('Button Text: '), url:prompt('Url: ')}, {label: prompt('2ND Button Text: '),url:prompt("2ND Button url: ")}]
     })
+
     console.log('Rpc ON')
 
 })
